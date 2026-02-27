@@ -1,6 +1,6 @@
 <div align="center">
 
-!<a href="https://raw.githubusercontent.com/ghaderi0x/Valersi/main/images/Logo.jpg" target="_blank" rel="noopener noreferrer nofollow"></a>
+![](https://raw.githubusercontent.com/ghaderi0x/Valersi/Logo.jpg)
 
 
 [![pub package](https://img.shields.io/pub/v/valersi.svg?label=valersi&color=blue)](https://pub.dev/packages/valersi)
@@ -37,7 +37,6 @@
 | `bankCardNO` | Validate 16-digit bank card (Luhn algorithm) | `Valersi.bankCardNO('6037991199500590')` | `true` |
 | `IBAN` | Validate 24-digit Iranian IBAN (Shaba) | `Valersi.IBAN('930150000001351800087201')` | `true` |
 | `postCode` | Validate 10-digit postal code | `Valersi.postCode('1457863491')` | `true` |
-| `postCode (strict)` | Validate postal code with real range check | `Valersi.postCode('1457863491', strict: true)` | `true / false` |
 | `bankDetect` | Detect bank name from card number or IBAN | `Valersi.bankDetect('6037991199500590')` | `Melli Bank` |
 | `formatCardNo` | Format card number as 4-4-4-4 | `Valersi.formatCardNo('6037991199500590')` | `6037 9911 9950 0590` |
 | `formatMoney` | Format number with thousand separators (auto Persian/English detection) | `Valersi.formatMoney('12500000')` | `12,500,000` |
