@@ -66,7 +66,7 @@ dependencies:
 2️⃣ Then, run:
 
 ```bash
-dart pub get
+dart pub add valersi
 ```
 
 ⭐ Or for Flutter projects:👇
