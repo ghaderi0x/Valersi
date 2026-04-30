@@ -1,0 +1,33 @@
+name: valersi
+version: 1.0.0
+description: A comprehensive validation library for Iranian developers. Valersi includes 16+ essential validators like National ID, IBAN, BankCards and more for both Dart and Flutter projects.
+
+homepage: https://github.com/ghaderi0x/Valersi 
+repository: https://github.com/ghaderi0x/Valersi.git
+issue_tracker: https://github.com/ghaderi0x/Valersi/issues
+
+documentation: https://pub.dev/documentation/valersi/latest/
+
+topics:
+  - iranian
+  - validator
+  - national-code
+  - iban
+  - bank-card
+  - persian-numbers
+  - flutter
+  - dart
+  - farsi
+  - persian
+  - UUID
+  - email
+  - Legal ID
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' 
+  
+dependencies:
+
+
+dev_dependencies:
+  test: ^1.29.0
