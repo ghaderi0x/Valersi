@@ -1,5 +1,5 @@
 /// Checks if a string contains **only** English/Latin letters, digits and hyphen
-///
+/// 
 /// This utility is useful in Iranian applications to:
 /// - Detect if user input is in English (e.g. username, password, email local part)
 /// - Differentiate between Persian (Farsi) text and English text
