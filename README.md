@@ -1,7 +1,5 @@
 <div align="center">
 
-//![LOGO](Logo.jpg)
-
 
 [![pub package](https://img.shields.io/pub/v/valersi.svg?label=valersi&color=blue)](https://pub.dev/packages/valersi)
 [![pub points](https://img.shields.io/pub/points/valersi?logo=dart)](https://pub.dev/packages/get/score)
