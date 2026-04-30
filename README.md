@@ -69,9 +69,9 @@ dependencies:
 dart pub get
 ```
 
-Or for Flutter projects:👇
+⭐ Or for Flutter projects:👇
 ```bash
-flutter pub get
+flutter pub add valersi
 ```
 
 3️⃣ Import the package in your project:
