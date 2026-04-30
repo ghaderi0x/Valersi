@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://raw.githubusercontent.com/ghaderi0x/Valersi/Logo.jpg)
+![LOGO](LOGO.png)
 
 
 [![pub package](https://img.shields.io/pub/v/valersi.svg?label=valersi&color=blue)](https://pub.dev/packages/valersi)
