@@ -1,6 +1,6 @@
 <div align="center">
 
-![LOGO](Logo.jpg)
+//![LOGO](Logo.jpg)
 
 
 [![pub package](https://img.shields.io/pub/v/valersi.svg?label=valersi&color=blue)](https://pub.dev/packages/valersi)
