@@ -14,7 +14,7 @@ import 'src/bank_detect_validator.dart';
 import 'src/is_english_validator.dart';
 import 'src/is_persian_validator.dart';
 
-/// Iranian-specific data validation and formatting utilities (مخصوص برنامه‌نویسان ایرانی)
+/// Iranian-specific data validation and formatting utilities (مخصوص برنامه‌نویسان ایرانی) By AmirMohammad Ghaderi
 ///
 /// This class provides static methods for validating and formatting common Iranian
 /// data types such as national ID (کد ملی), bank card numbers (شماره کارت بانکی),
